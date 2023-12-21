@@ -4,3 +4,5 @@
 
 
 ali ata bak
+
+pull yapcaz
